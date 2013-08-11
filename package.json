@@ -1,0 +1,27 @@
+{
+  "name": "dtrace-leveldb-blogpost",
+  "version": "0.0.0",
+  "description": "An example of using dtrace with level",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/No9/dtrace-leveldb-blogpost.git"
+  },
+  "keywords": [
+    "dtrace",
+    "leveldb"
+  ],
+  "author": "anton whalley",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "6a16573cbf4f9ffe1e72915d087400c8a3de781e",
+  "bugs": {
+    "url": "https://github.com/No9/dtrace-leveldb-blogpost/issues"
+  },
+  "dependencies": {
+    "level": "~0.12.0"
+  }
+}
